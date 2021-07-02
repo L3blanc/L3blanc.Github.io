@@ -22,7 +22,7 @@ aside#right{width:100px;height:400px;float:left;background-color:#15317E;}
 <body>
 <header>
 <section id="banner"><h1>BleuTech</h1></section>
-<section id="logo"><img src="Logo.jpg" width="250" height="125" align = “center”></section>
+<section id="logo"><img src="Logo2.png" width="250" height="125" align = “center”></section>
 <section id="login"></section>
 </header>
 <nav>
